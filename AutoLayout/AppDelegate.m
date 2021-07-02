@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  AutoLayout
 //
-//  Created by Ziad on 6/13/14.
-//  Copyright (c) 2014 AppCoda. All rights reserved.
+//  Created by Anh Ng on 2021/02/02.
+//  Copyright (c) 2021. All rights reserved.
 //
 
 #import "AppDelegate.h"
